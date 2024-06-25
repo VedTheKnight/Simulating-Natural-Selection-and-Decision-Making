@@ -37,13 +37,3 @@ This framework can be expanded to simulate more complex players with additional 
 
 By incorporating these attributes, we can simulate a wider range of behaviors and interactions.
 
-## Contributing
-
-We welcome contributions to enhance the framework and add new features. Please feel free to submit issues and pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
-
-Feel free to customize further according to your needs!
